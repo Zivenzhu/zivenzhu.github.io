@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Xi'an Jiaotong University(Sep 2021 -)
+* B.S. in Computer Science, Xi'an Jiaotong University(Sep 2021 - present)
 
 Awards & Scholarships
 =====
