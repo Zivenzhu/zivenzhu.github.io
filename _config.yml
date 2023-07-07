@@ -82,10 +82,7 @@ analytics:
 author:
   name             : "Ziven Zhu"
   avatar           : "profile.jpg"
-  bio              : "Welcome! I am an sophomore student in Xi'an Jiaotong University, majoring in computer science and technology. 
-                      My research is about natural language processing and graph related work, advised by Prof. Minnan Luo. 
-                      Meanwhile, I also love singing, dancing, rap songs and playing baseketball. 
-                      Currently, I am the NLP group member of the LUD lab, where I work on long document representations and other nlp application."
+  bio              : ""But man is not made for defeat. A man can be destroyed, but not defeated.""
   location         : "Xi'an, Shaanxi, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
