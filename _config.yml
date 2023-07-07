@@ -80,9 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ziven Zhu"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Welcome! I am an sophomore student in Xi'an Jiaotong University, majoring in computer science and technology. 
+                      My research is about natural language processing and graph related work, advised by Prof. Minnan Luo. 
+                      Meanwhile, I also love singing, dancing, rap songs and playing baseketball. 
+                      Currently, I am the NLP group member of the LUD lab, where I work on long document representations and other nlp application."
   location         : "Xi'an, Shaanxi, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
