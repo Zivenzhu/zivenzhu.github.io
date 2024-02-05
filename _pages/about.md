@@ -15,4 +15,4 @@ Hello, everyone! I am a junior student in Xi’an Jiaotong University, majoring 
 
 [LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection](https://arxiv.org/abs/2306.17408)<br/>
 Zijian Cai, Zhaoxuan Tan, Zhenyu Lei, **Zifeng Zhu**, Hongrui Wang, Qinghua Zheng, Minnan Luo. <br/>
-*Arxiv 2023*<br/>
+*Proceedings of WSDM, 2024.*<br/>
