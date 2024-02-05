@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Xi'an, Shaanxi, China"
-title                    : "Ziven Zhu"
+title                    : "Zifeng Zhu"
 title_separator          : "-"
-name                     : &name "Ziven"
+name                     : &name "Zifeng"
 description              : &description ""
 url                      : https://zivenzhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
