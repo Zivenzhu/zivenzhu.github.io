@@ -14,7 +14,7 @@ Hello, everyone! I am a senior student at Xi'an Jiaotong University, majoring in
 ## Publications
 
 [MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems](https://arxiv.org/abs/2410.14179)<br/>
-**Zifeng Zhu**\*, Mengzhao Jia\*, Zhihan Zhang, Lang Li, Meng Jiang. <br/>
+**Zifeng Zhu\***, Mengzhao Jia\*, Zhihan Zhang, Lang Li, Meng Jiang. <br/>
 *ArXiv Preprint, 2024.*<br/>
 
 [LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection](https://arxiv.org/abs/2306.17408)<br/>
