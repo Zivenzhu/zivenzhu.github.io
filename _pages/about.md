@@ -14,11 +14,11 @@ Hello, everyone! I am a senior student at Xi'an Jiaotong University, majoring in
 ## Publications
 
 [MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems](https://arxiv.org/abs/2410.14179)<br/>
-**Zifeng Zhu\***, Mengzhao Jia\*, Zhihan Zhang, Lang Li, Meng Jiang. <br/>
+**Zifeng Zhu\***, [Mengzhao Jia\*](https://mengzhaojia.notion.site/Mengzhao-JIA-664cb411f0d341f992ee2a40dc4e00af), [Zhihan Zhang](https://ytyz1307zzh.github.io/), Lang Li, [Meng Jiang](http://www.meng-jiang.com/). <br/>
 *ArXiv Preprint, 2024.*<br/>
 
 [LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection](https://arxiv.org/abs/2306.17408)<br/>
-Zijian Cai, Zhaoxuan Tan, Zhenyu Lei, **Zifeng Zhu**, Hongrui Wang, Qinghua Zheng, Minnan Luo. <br/>
+Zijian Cai, [Zhaoxuan Tan](https://zhaoxuan.info/), [Zhenyu Lei](https://lzyfischer.github.io/), **Zifeng Zhu**, Hongrui Wang, [Qinghua Zheng](https://gr.xjtu.edu.cn/en/web/qhzheng), [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo). <br/>
 *Proceedings of WSDM, 2024.*<br/>
 
 
