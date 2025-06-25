@@ -13,6 +13,10 @@ Hello, everyone! I am a senior student at Xi'an Jiaotong University, majoring in
 
 ## Publications
 
+[GUESSBENCH: Sensemaking Multimodal Creativity in the Wild](https://arxiv.org/pdf/2506.00814)<br/>
+**Zifeng Zhu\***, [Shangbin Feng\*](https://bunsenfeng.github.io/), [Herun Wan](https://whr000001.github.io/), [Ningnan Wang](https://github.com/mrwangyou), [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo), [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). <br/>
+*Arxiv Preprint, 2025*<br/>
+
 [MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems](https://arxiv.org/abs/2410.14179)<br/>
 **Zifeng Zhu\***, [Mengzhao Jia\*](https://mengzhaojia.notion.site/Mengzhao-JIA-664cb411f0d341f992ee2a40dc4e00af), [Zhihan Zhang](https://ytyz1307zzh.github.io/), Lang Li, [Meng Jiang](http://www.meng-jiang.com/). <br/>
 *Proceedings of NAACL, 2025.*<br/>
