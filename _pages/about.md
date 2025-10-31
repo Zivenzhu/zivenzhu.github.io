@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, everyone! I am a senior student at Xi'an Jiaotong University, majoring in Computer Science and Technology. Previously, I conducted research in natural language processing and graph-related work under the guidance of Prof. [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo). I also worked on evidencing surprising phenomena in deep learning when trained with random labels, advised by Meta AI Research Scientist [Zhuang Liu](https://liuzhuang13.github.io). Additionally, I did research on multimodality under the supervision of Prof. [Meng Jiang](http://www.meng-jiang.com/). Currently, I am a member of the NLP group in the [LUD lab](https://luoundergradxjtu.github.io/), the foremost undergraduate research group at Xi'an Jiaotong University.
+Hello, everyone! I am a first-year postgraduate student at Xi’an Jiaotong University, majoring in Computer Science and Technology. Previously, I conducted research in natural language processing and graph-related work under the guidance of Prof. [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo). I also worked on evidencing surprising phenomena in deep learning when trained with random labels, advised by Meta AI Research Scientist [Zhuang Liu](https://liuzhuang13.github.io). In addition, I did research on multimodality under the supervision of Prof. [Meng Jiang](http://www.meng-jiang.com/). Currently, I am exploring training-free image editing and video modeling problems.
 
 
 ## Publications
