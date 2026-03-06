@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, everyone! I am a first-year postgraduate student at Xi’an Jiaotong University, majoring in Computer Science and Technology. Previously, I conducted research in natural language processing and graph-related work under the guidance of Prof. [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo). I also worked on evidencing surprising phenomena in deep learning when trained with random labels, advised by Meta AI Research Scientist [Zhuang Liu](https://liuzhuang13.github.io). In addition, I did research on multimodality under the supervision of Prof. [Meng Jiang](http://www.meng-jiang.com/). Currently, I am exploring training-free image editing and video modeling problems.
+Hello, everyone! I am a first-year postgraduate student at Xi’an Jiaotong University, majoring in Computer Science and Technology. Previously, I conducted research in natural language processing and graph-related work under the guidance of Prof. [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo). I also worked on evidencing surprising phenomena in deep learning when trained with random labels, advised by Meta AI Research Scientist [Zhuang Liu](https://liuzhuang13.github.io). In addition, I did research on multimodality under the supervision of Prof. [Meng Jiang](http://www.meng-jiang.com/). Currently, I am exploring training-free image editing and video modeling problems under the guidance of Prof. [Xiangyu Yue](https://xyue.io/).
 
 
 ## Publications
+
+[GIDE: Unlocking Diffusion LLMs for Precise Training-Free Image Editing]<br/>
+**Zifeng Zhu**, [Jiaming Han](https://csuhan.com/), Jiaxiang Zhao, [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo/home), [Xiangyu Yue](https://xyue.io/) 
+*Arxiv Preprint coming soon.*<br/>
 
 [GUESSBENCH: Sensemaking Multimodal Creativity in the Wild](https://arxiv.org/pdf/2506.00814)<br/>
 **Zifeng Zhu\***, [Shangbin Feng\*](https://bunsenfeng.github.io/), [Herun Wan](https://whr000001.github.io/), [Ningnan Wang](https://github.com/mrwangyou), [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo), [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). <br/>
