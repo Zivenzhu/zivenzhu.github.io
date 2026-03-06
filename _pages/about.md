@@ -14,7 +14,7 @@ Hello, everyone! I am a first-year postgraduate student at Xi’an Jiaotong Univ
 ## Publications
 
 [GIDE: Unlocking Diffusion LLMs for Precise Training-Free Image Editing]<br/>
-**Zifeng Zhu**, [Jiaming Han](https://csuhan.com/), Jiaxiang Zhao, [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo/home), [Xiangyu Yue](https://xyue.io/) 
+**Zifeng Zhu**, [Jiaming Han](https://csuhan.com/), Jiaxiang Zhao, [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo/home), [Xiangyu Yue](https://xyue.io/). <br/>
 *Arxiv Preprint coming soon.*<br/>
 
 [GUESSBENCH: Sensemaking Multimodal Creativity in the Wild](https://arxiv.org/pdf/2506.00814)<br/>
